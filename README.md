@@ -1,13 +1,14 @@
-### Hi there 👋
-  <h1> Github Profile of @CinnamonFish</h1>
- </p>
- <p>
- 
+## Hi there 👋 This is the GitHub Profile of @CinnamonFish
 <p align="center">
-  <a href="https://space.bilibili.com/11804187"><img src="https://img.shields.io/badge/bilibili-@快乐的大睡猫-ff69b4"></a>
-  <a href="https://www.zhihu.com/people/yu-tian-yun-11-63"><img src="https://img.shields.io/badge/知乎-@快乐的大睡猫-blue"></a>
+
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=CinnamonFish&count_private=true&show_icons=true&include_all_commits=true&theme=algolia)
+
 </p>
 
+- bilibili: <a href="https://space.bilibili.com/11804187"><img src="https://img.shields.io/badge/bilibili-@快乐的大睡猫-ff69b4"></a>
+- 知乎: <a href="https://www.zhihu.com/people/yu-tian-yun-11-63"><img src="https://img.shields.io/badge/知乎-@快乐的大睡猫-blue"></a>
+- visitors:       ![visitors](https://visitor-badge.laobi.icu/badge?page_id=CinnamonFish)
+ 
 ---
 <details>
 <summary> ✨See detailed information of @CinnamonFish below✨ </summary>
