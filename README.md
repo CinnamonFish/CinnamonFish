@@ -17,7 +17,7 @@
 
 
 - bilibili: <a href="https://space.bilibili.com/11804187"><img src="https://img.shields.io/badge/bilibili-@快乐的大睡猫-ff69b4"></a>
-- 知乎: <a href="https://www.zhihu.com/people/yu-tian-yun-11-63"><img src="https://img.shields.io/badge/知乎-@快乐的大睡猫-blue"></a>
+<!--- - 知乎: <a href="https://www.zhihu.com/people/yu-tian-yun-11-63"><img src="https://img.shields.io/badge/知乎-@快乐的大睡猫-blue"></a> --->
 - visitors:       ![visitors](https://visitor-badge.laobi.icu/badge?page_id=CinnamonFish)
 </details>  
 
